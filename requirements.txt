@@ -1,5 +1,6 @@
 streamlit
 pandas
 scikit-surprise
-Numpy
-Pandas
+numpy
+scipy
+cython
